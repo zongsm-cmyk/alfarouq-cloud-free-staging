@@ -1,0 +1,9 @@
+{
+  "name": "alfarouq-cloud-free-staging",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "No-cost, no-production-data ALFAROUQ deployability probe",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.mjs", "test": "node --test server.test.mjs" }
+}
